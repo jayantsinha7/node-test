@@ -10,7 +10,7 @@
 npx sort-package-json
 ```
 
-### Install
+#### Install
 
 ```bash
 npm install --global sort-package-json
